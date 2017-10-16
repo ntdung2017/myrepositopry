@@ -12,6 +12,7 @@ namespace myproject
         {
             Console.WriteLine("Xin chao cac Ban.");
             Console.WriteLine("Hello friends.");
+            Console.WriteLine("Today is monday.");
             Console.ReadLine();
         }
     }
