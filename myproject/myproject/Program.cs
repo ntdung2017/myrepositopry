@@ -11,6 +11,7 @@ namespace myproject
         static void Main(string[] args)
         {
             Console.WriteLine("Xin chao cac Ban.");
+            Console.WriteLine("Hello friends.");
             Console.ReadLine();
         }
     }
